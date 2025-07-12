@@ -16,18 +16,18 @@ Gestión del catálogo, dividido en tres categorías principales de armas: pisto
 Herramientas administrativas avanzadas accesibles mediante una consola, permitiendo la supervisión completa de cuentas, compras y stock.
 El proyecto busca proporcionar una solución completa para la administración eficiente de una armería, integrando herramientas modernas y prácticas de desarrollo para lograr un producto funcional y robusto.
 
-3. Planteamiento del problema
+3.Planteamiento del problema
 
 La gestión eficiente de una armería enfrenta desafíos como el manejo desorganizado de cuentas de usuarios, el control inadecuado del catálogo de armas y la falta de herramientas centralizadas para supervisar operaciones. Esto puede ocasionar errores en inventarios, registros y administración general. Por ello, es necesario desarrollar una aplicación integral que facilite estas tareas, optimizando procesos y mejorando su eficiencia.
 
-5. Objetivos del proyecto
+4.Objetivos del proyecto
 
 Los objetivos del proyecto son los siguientes:
 Desarrollar una aplicación de escritorio para la gestión integral de una armería, utilizando Java y WindowsBuilder para las interfaces gráficas.
 Implementar funcionalidades que permitan la administración de cuentas de usuarios, la gestión de un catálogo de armas y el control avanzado mediante una consola administrativa.
 Integrar MongoDB Atlas como base de datos en la nube y MongoDB Compass para consultas locales, garantizando el almacenamiento eficiente y seguro de los datos.
 
-6. Fundamentos teóricos
+5.Fundamentos teóricos
 
 5.1 Conceptos básicos de gestión de base de datos en una aplicación de gestión
 La base de datos es un componente fundamental en cualquier aplicación que maneje grandes cantidades de información estructurada. En el caso de una aplicación de gestión de una armería, como la que se está desarrollando, se utiliza MongoDB como sistema de base de datos NoSQL para almacenar y organizar la información de los clientes, las armas y las compras realizadas. MongoDB es una base de datos orientada a documentos que ofrece flexibilidad y escalabilidad para manejar grandes volúmenes de datos, lo que es ideal para este tipo de aplicaciones.
